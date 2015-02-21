@@ -50,7 +50,7 @@ class phonemarketCmd extends cmd {
             }
         }
         if ($this->getConfiguration('type') == 'call') {
-            if (!$market->sendRequest('telapi::call', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message']))) {
+            if (!$market->sendRequest('telapi::call', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message']),'language' => config::byKey('language', 'core', 'fr_FR'))) {
                 log::add('phonemarket', 'error', print_r($market, true));
                 throw new Exception($market->getError(), $market->getErrorCode());
             }
