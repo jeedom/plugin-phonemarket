@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>phonemarket</id>
+    <name>Phone market</name>
+    <description>Plugin pour utiliser le market comme passerelle SMS et pour passer des appels</description>
+    <icon>fa fa-phone</icon>
+    <licence>AGPL</licence>
+    <author>Loïc Gevrey</author>
+    <installation>Aucune</installation>
+    <require>1.141</require>
+    <category>communication</category>
+</info>
+
