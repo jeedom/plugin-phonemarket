@@ -1,4 +1,9 @@
 nbproject/
 test.php
 core/config/common.config.php
+<<<<<<< HEAD
 plugins
+=======
+plugins
+sftp-config.json
+>>>>>>> origin/master

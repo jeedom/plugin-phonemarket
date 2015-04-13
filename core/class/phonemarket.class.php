@@ -20,6 +20,7 @@
 require_once dirname(__FILE__) . '/../../../../core/php/core.inc.php';
 
 class phonemarket extends eqLogic {
+<<<<<<< HEAD
     /*     * *************************Attributs****************************** */
 
 
@@ -58,6 +59,41 @@ class phonemarketCmd extends cmd {
     }
 
     /*     * **********************Getteur Setteur*************************** */
+=======
+	/*     * *************************Attributs****************************** */
+
+	/*     * ***********************Methode static*************************** */
+
+	/*     * *********************Methode d'instance************************* */
+
+	/*     * **********************Getteur Setteur*************************** */
+}
+
+class phonemarketCmd extends cmd {
+	/*     * *************************Attributs****************************** */
+
+	/*     * ***********************Methode static*************************** */
+
+	/*     * *********************Methode d'instance************************* */
+
+	public function execute($_options = array()) {
+		$market = market::getJsonRpc();
+		if ($this->getConfiguration('type') == 'sms') {
+			if (!$market->sendRequest('telapi::sms', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message']))) {
+				log::add('phonemarket', 'error', print_r($market, true));
+				throw new Exception($market->getError(), $market->getErrorCode());
+			}
+		}
+		if ($this->getConfiguration('type') == 'call') {
+			if (!$market->sendRequest('telapi::call', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message'], 'language' => config::byKey('language', 'core', 'fr_FR')))) {
+				log::add('phonemarket', 'error', print_r($market, true));
+				throw new Exception($market->getError(), $market->getErrorCode());
+			}
+		}
+	}
+
+	/*     * **********************Getteur Setteur*************************** */
+>>>>>>> origin/master
 }
 
 ?>
