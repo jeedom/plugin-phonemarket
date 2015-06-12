@@ -37,3 +37,7 @@ En dessous vous retrouvez la liste des commandes :
 * *Numéro* : numéro de téléphone qui doit etre appellé ou à qui ont doit envoyé un SMS (en fonction du type)
 * *Tester* : permet de tester la commande,
 * *Supprimer* (signe -) : permet de supprimer la commande.
+
+[icon="../images/plugin/tip.png"]
+[TIP]
+Ce plugin fonction avec un systeme de crédit que vous pouvez suivre et recharger à partir de la page profils du market, link::http://market.jeedom.fr/index.php?v=d&p=profils[ici]
