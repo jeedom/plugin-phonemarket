@@ -40,4 +40,4 @@ En dessous vous retrouvez la liste des commandes :
 
 [icon="../images/plugin/tip.png"]
 [TIP]
-Ce plugin fonction avec un systeme de crédit que vous pouvez suivre et recharger à partir de la page profils du market, link::http://market.jeedom.fr/index.php?v=d&p=profils[ici]
+Ce plugin fonction avec un systeme de crédit que vous pouvez suivre et recharger à partir de la page profils du market, link::http://market.jeedom.fr/index.php?v=d&p=profils[ici]. Vous receverez un mail en cas de crédit SMS/APPELS faible
