@@ -1,0 +1,12 @@
+:icons:
+== Phonemarket
+
+=== Description
+Plugin permettant d'envoyer des SMS et de passer des appels avec message automatique a partir de Jeedom. 
+
+[icon="../images/plugin/important.png"]
+[IMPORTANT]
+Ce plugin passe par le market c'est donc un service cloud qui necessite une connexion internet pour fonctionner
+
+'''
+include::configuration.asciidoc[]
