@@ -1,10 +1,10 @@
-=== Configuration du plugin
+== Configuration du plugin
 
 Après téléchargement du plugin, il vous suffit juste d'activer celui-ci, il n'y a aucune configuration à ce niveau
 
 image::../images/phonemarket1.PNG[]
 
-=== Configuration des équipements
+== Configuration des équipements
 
 La configuration des équipements Phonemarket est accessible à partir du menu plugin : 
 
@@ -14,14 +14,12 @@ Voilà à quoi ressemble la page du plugin Phonemarket (ici avec déjà 1 équip
 
 image::../images/phonemarket3.PNG[]
 
-[icon="../images/plugin/tip.png"]
 [TIP]
 Comme à beaucoup d'endroits sur Jeedom, placer la souris tout à gauche permet de faire apparaître un menu d'accès rapide (vous pouvez, à partir de votre profil, le laisser toujours visible).
 
 Une fois que vous cliquez sur l'un d'eux, vous obtenez : 
 
 image::../images/phonemarket4.PNG[]
-
 
 Vous retrouvez ici toute la configuration de votre équipement : 
 
@@ -37,7 +35,3 @@ En dessous vous retrouvez la liste des commandes :
 * *Numéro* : numéro de téléphone qui doit etre appellé ou à qui ont doit envoyé un SMS (en fonction du type)
 * *Tester* : permet de tester la commande,
 * *Supprimer* (signe -) : permet de supprimer la commande.
-
-[icon="../images/plugin/tip.png"]
-[TIP]
-Ce plugin fonction avec un systeme de crédit que vous pouvez suivre et recharger à partir de la page profils du market, link::http://market.jeedom.fr/index.php?v=d&p=profils[ici]. Vous receverez un mail en cas de crédit SMS/APPELS faible
