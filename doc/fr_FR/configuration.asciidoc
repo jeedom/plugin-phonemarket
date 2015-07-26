@@ -1,6 +1,6 @@
 == Configuration du plugin
 
-Après téléchargement du plugin, il vous suffit juste d'activer celui-ci, il n'y a aucune configuration à ce niveau
+Après téléchargement du plugin, il vous suffit juste d'activer celui-ci, il n'y a aucune configuration à ce niveau.
 
 image::../images/phonemarket1.PNG[]
 
@@ -23,15 +23,15 @@ image::../images/phonemarket4.PNG[]
 
 Vous retrouvez ici toute la configuration de votre équipement : 
 
-* *Nom de l'équipement phonemarket* : nom de votre équipement Phonemarket,
-* *Objet parent* : indique l'objet parent auquel appartient l'équipement.
+* *Nom de l'équipement Phonemarket* : nom de votre équipement Phonemarket,
+* *Objet parent* : indique l'objet parent auquel appartient l'équipement,
 * *Activer* : permet de rendre votre équipement actif,
-* *Visible* : rend votre équipement visible sur le dashboard,
+* *Visible* : rend votre équipement visible sur le dashboard.
 
-En dessous vous retrouvez la liste des commandes : 
+En-dessous vous retrouvez la liste des commandes : 
 
 * *Nom* : le nom affiché sur le dashboard,
-* *Type* : type de commande (appels ou sms)
-* *Numéro* : numéro de téléphone qui doit etre appellé ou à qui ont doit envoyé un SMS (en fonction du type)
+* *Type* : type de commande (appels ou sms),
+* *Numéro* : numéro de téléphone qui doit être appelé ou à qui un SMS doit être envoyé (en fonction du type),
 * *Tester* : permet de tester la commande,
 * *Supprimer* (signe -) : permet de supprimer la commande.
