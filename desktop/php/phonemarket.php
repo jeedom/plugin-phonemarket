@@ -23,7 +23,7 @@ foreach ($eqLogics as $eqLogic) {
    </div>
 
    <div class="col-lg-10 col-md-9 col-sm-8 eqLogicThumbnailDisplay" style="border-left: solid 1px #EEE; padding-left: 25px;">
-    <legend>{{Mes équipements market phone}}</legend>
+    <legend><i class="fa fa-phone"></i>  {{Mes Equipements PhoneMarket}}</legend>
     <div class="eqLogicThumbnailContainer">
       <div class="cursor eqLogicAction" data-action="add" style="background-color : #ffffff; height : 200px;margin-bottom : 10px;padding : 5px;border-radius: 2px;width : 160px;margin-left : 10px;" >
        <center>
@@ -91,7 +91,7 @@ foreach (jeedom::getConfiguration('eqLogic:category') as $key => $value) {
     </fieldset>
 </form>
 
-<legend>{{Commande}}</legend>
+<legend><i class="fa fa-list-alt"></i>  {{Commandes}}</legend>
 <div class="alert alert-info">{{Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target="_blank" href="http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms">ici</a>}}</div>
 <a class="btn btn-success btn-sm cmdAction" data-action="add"><i class="fa fa-plus-circle"></i> {{Ajouter une commande}}</a><br/><br/>
 <table id="table_cmd" class="table table-bordered table-condensed">
