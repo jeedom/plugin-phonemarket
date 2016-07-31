@@ -42,7 +42,7 @@ class phonemarketCmd extends cmd {
 	}
 
 	public function execute($_options = array()) {
-		$market = market::getJsonRpc();
+		$market = repo_market::getJsonRpc();
 		if ($this->getConfiguration('type') == 'sms') {
 			if (!$market->sendRequest('phonemarket::sms', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message']))) {
 				log::add('phonemarket', 'error', print_r($market, true));
