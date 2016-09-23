@@ -3,10 +3,8 @@
     <id>phonemarket</id>
     <name>Phone market</name>
     <description>Plugin pour utiliser le market comme passerelle SMS et pour passer des appels</description>
-    <icon>fa fa-phone</icon>
     <licence>AGPL</licence>
-    <author>Loïc Gevrey</author>
-    <installation>Aucune</installation>
+    <author>Loïc</author>
     <require>2.3.0</require>
     <category>communication</category>
 </info>
