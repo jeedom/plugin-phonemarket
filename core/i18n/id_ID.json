@@ -1,0 +1,33 @@
+{
+    "plugins/phonemarket/plugin_info/info.xml": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+        "Aucune": "Tak ada"
+    },
+    "plugins/phonemarket/desktop/php/phonemarket.php": {
+        "Ajouter un équipement": "Tambahan peralatan",
+        "Rechercher": "Mencari",
+        "Mes Equipements PhoneMarket": "Mes Equipements PhoneMarket",
+        "Général": "Umum",
+        "Nom de l'équipement phonemarket": "Nom de l'équipement phonemarket",
+        "Nom de l'équipement template": "Nama peralatan contoh",
+        "Objet parent": "Objek induk",
+        "Aucun": "Tak ada",
+        "Activer": "Mengaktifkan",
+        "Visible": "Terlihat",
+        "Catégorie": "Kategori",
+        "Commandes": "Perintah",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>": "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>",
+        "Ajouter une commande": "Tambahan pesanan",
+        "Nom": "Nama",
+        "Type": "Jenis",
+        "Numéro": "Numéro",
+        "Supprimer": "Menghapus",
+        "Sauvegarder": "Menyimpan",
+        "Equipement": "Peralatan"
+    },
+    "plugins/phonemarket/desktop/js/phonemarket.js": {
+        "SMS": "SMS",
+        "Appels": "Appels",
+        "Tester": "Coba"
+    }
+}

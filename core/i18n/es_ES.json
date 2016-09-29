@@ -1,0 +1,33 @@
+{
+    "plugins/phonemarket/plugin_info/info.xml": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin para utilizar el Market como pasarela SMS y para hacer llamadas",
+        "Aucune": "Ninguna"
+    },
+    "plugins/phonemarket/desktop/php/phonemarket.php": {
+        "Ajouter un équipement": "Añadir un dispositivo",
+        "Rechercher": "Buscar",
+        "Mes Equipements PhoneMarket": "Mis dispositivos PhoneMarket",
+        "Général": "Principal",
+        "Nom de l'équipement phonemarket": "Nombre del dispositivo phonemarket",
+        "Nom de l'équipement template": "Nombre del dispositivo plantilla",
+        "Objet parent": "Objeto padre",
+        "Aucun": "Ningún",
+        "Activer": "Activar",
+        "Visible": "Visible",
+        "Catégorie": "Categoría",
+        "Commandes": "Ordenes",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>": "Un SMS vale un crédito, una llamada vale 2 créditos. Cuidado con los SMS pues se truncan a 140 caracteres y las llamadas a 450 caracteres. Usted puede ver su crédito disponible <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">aquí</a>",
+        "Ajouter une commande": "Añadir una orden",
+        "Nom": "Nombre",
+        "Type": "Tipo",
+        "Numéro": "Número",
+        "Supprimer": "Borrar",
+        "Sauvegarder": "Guardar",
+        "Equipement": "Dispositivo"
+    },
+    "plugins/phonemarket/desktop/js/phonemarket.js": {
+        "SMS": "SMS",
+        "Appels": "Llamadas",
+        "Tester": "Probar"
+    }
+}

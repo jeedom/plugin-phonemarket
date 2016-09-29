@@ -1,0 +1,33 @@
+{
+    "plugins/phonemarket/plugin_info/info.xml": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Плагин для использования Маркета в качестве СМС шлюза и чтобы делать звонки",
+        "Aucune": "Нет"
+    },
+    "plugins/phonemarket/desktop/php/phonemarket.php": {
+        "Ajouter un équipement": "Добавить оборудование",
+        "Rechercher": "Искать",
+        "Mes Equipements PhoneMarket": "Mes Equipements PhoneMarket",
+        "Général": "Главная",
+        "Nom de l'équipement phonemarket": "Имя оборудование phonemarket ",
+        "Nom de l'équipement template": "Название шаблона оборудования",
+        "Objet parent": "Родительский объект",
+        "Aucun": "Нет",
+        "Activer": "Активировать",
+        "Visible": "Видимый",
+        "Catégorie": "Категория",
+        "Commandes": "Команды",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>": "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>",
+        "Ajouter une commande": "Добавить команду",
+        "Nom": "Имя",
+        "Type": "Тип",
+        "Numéro": "Номер",
+        "Supprimer": "Удалить",
+        "Sauvegarder": "Сохранить",
+        "Equipement": "Оборудование"
+    },
+    "plugins/phonemarket/desktop/js/phonemarket.js": {
+        "SMS": "СМС",
+        "Appels": "Звонки",
+        "Tester": "Тест"
+    }
+}
