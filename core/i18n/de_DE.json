@@ -1,12 +1,8 @@
 {
-    "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin, um den Markt als ein SMS-Gateway zu verwenden und um Anrufe zu tätigen",
-        "Aucune": "Ohne"
-    },
     "plugins/phonemarket/desktop/php/phonemarket.php": {
         "Ajouter un équipement": "Gerät hinzufügen",
         "Rechercher": "Suchen nach",
-        "Mes Equipements PhoneMarket": "Mes Equipements PhoneMarket",
+        "Mes équipements market phone": "Meine market phone Geräte",
         "Général": "Allgemein",
         "Nom de l'équipement phonemarket": "phonemarket Gerätename",
         "Nom de l'équipement template": "Name der Vorlage ",
@@ -14,20 +10,21 @@
         "Aucun": "Ohne",
         "Activer": "aktivieren",
         "Visible": "Sichtbar",
-        "Catégorie": "Kategorie",
-        "Commandes": "Befehle",
-        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>": "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>",
+        "Commande": "Befehl",
         "Ajouter une commande": "Kommando hinzufügen",
         "Nom": "Name",
         "Type": "Typ",
         "Numéro": "Nummer",
         "Supprimer": "Löschen",
-        "Sauvegarder": "Speichern",
-        "Equipement": "Gerät"
+        "Sauvegarder": "Speichern"
     },
     "plugins/phonemarket/desktop/js/phonemarket.js": {
         "SMS": "SMS",
         "Appels": "Apple",
         "Tester": "Test"
+    },
+    "plugins/phonemarket/plugin_info/info.xml": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin, um den Markt als ein SMS-Gateway zu verwenden und um Anrufe zu tätigen",
+        "Aucune": "Ohne"
     }
 }

@@ -1,12 +1,8 @@
 {
-    "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin to use market as SMS gateway and phone call",
-        "Aucune": "None"
-    },
     "plugins/phonemarket/desktop/php/phonemarket.php": {
         "Ajouter un équipement": "Add device",
         "Rechercher": "Search",
-        "Mes Equipements PhoneMarket": "My Devices PhoneMarket",
+        "Mes équipements market phone": "My market phone devices",
         "Général": "Main",
         "Nom de l'équipement phonemarket": "Market phone device name",
         "Nom de l'équipement template": "Template device name",
@@ -14,20 +10,21 @@
         "Aucun": "None",
         "Activer": "Activate",
         "Visible": "Visible",
-        "Catégorie": "Category",
-        "Commandes": "Commands",
-        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>": "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>",
+        "Commande": "Command",
         "Ajouter une commande": "Add a command",
         "Nom": "Name",
         "Type": "Type",
         "Numéro": "Number",
         "Supprimer": "Delete",
-        "Sauvegarder": "Save",
-        "Equipement": "Device"
+        "Sauvegarder": "Save"
     },
     "plugins/phonemarket/desktop/js/phonemarket.js": {
         "SMS": "SMS",
         "Appels": "Calls",
         "Tester": "Test"
+    },
+    "plugins/phonemarket/plugin_info/info.xml": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin to use market as SMS gateway and phone call",
+        "Aucune": "None"
     }
 }

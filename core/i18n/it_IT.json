@@ -1,12 +1,8 @@
 {
-    "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
-        "Aucune": "Nessuno"
-    },
     "plugins/phonemarket/desktop/php/phonemarket.php": {
         "Ajouter un équipement": "Aggiungi dispositivo",
         "Rechercher": "Cerca",
-        "Mes Equipements PhoneMarket": "Mes Equipements PhoneMarket",
+        "Mes équipements market phone": "Mes équipements market phone",
         "Général": "Principale",
         "Nom de l'équipement phonemarket": "Nom de l'équipement phonemarket",
         "Nom de l'équipement template": "Nom de l'équipement template",
@@ -14,20 +10,21 @@
         "Aucun": "Nessuno",
         "Activer": "Attivare",
         "Visible": "Visibile",
-        "Catégorie": "Categoria",
-        "Commandes": "Comandi",
-        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>": "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms\">ici</a>",
+        "Commande": "Comando",
         "Ajouter une commande": "Aggiungi un comando",
         "Nom": "Nome",
         "Type": "Tipo",
         "Numéro": "Numéro",
         "Supprimer": "Elimina",
-        "Sauvegarder": "Salva",
-        "Equipement": "Dispositivo"
+        "Sauvegarder": "Salva"
     },
     "plugins/phonemarket/desktop/js/phonemarket.js": {
         "SMS": "SMS",
         "Appels": "Appels",
         "Tester": "Prova"
+    },
+    "plugins/phonemarket/plugin_info/info.xml": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+        "Aucune": "Nessuno"
     }
 }
