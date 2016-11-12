@@ -22,12 +22,9 @@
         "SMS": "SMS",
         "Appels": "Appels",
         "Tester": "Tester"
-<<<<<<< HEAD
-=======
     },
     "plugins\/phonemarket\/plugin_info\/info.xml": {
         "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
         "Aucune": "Aucune"
->>>>>>> origin/master
     }
 }
