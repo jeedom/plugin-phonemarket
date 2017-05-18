@@ -1,0 +1,9 @@
+{
+	"id" : "phonemarket",
+	"name" : "Phone market",
+	"description" : "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+	"licence" : "AGPL",
+	"author" : "Loïc",
+	"require" : "3.0",
+	"category" : "communication"
+}
