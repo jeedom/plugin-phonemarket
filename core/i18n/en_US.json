@@ -24,7 +24,7 @@
         "Tester": "Test"
     },
     "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin to use market as SMS gateway and phone call",
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin to use market as SMS and phone call gateway",
         "Aucune": "None"
     }
 }
