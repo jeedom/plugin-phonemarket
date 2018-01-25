@@ -48,7 +48,7 @@ Une fois que vous cliquez sur l’un d’eux, vous obtenez :
 
 ![phonemarket4](../images/phonemarket4.PNG)
 
-Vous retrouvez ici toute la configuration de votre équipement :
+Hier finden sie die ganze Konfiguration Ihrer Geräte:
 
 -   **Nom de l’équipement Phonemarket** : nom de votre équipement
     Phonemarket,

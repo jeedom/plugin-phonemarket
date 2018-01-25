@@ -48,12 +48,12 @@ Une fois que vous cliquez sur l’un d’eux, vous obtenez :
 
 ![phonemarket4](../images/phonemarket4.PNG)
 
-Vous retrouvez ici toute la configuration de votre équipement :
+Aquí encontrará toda la configuración de su dispositivo:
 
 -   **Nom de l’équipement Phonemarket** : nom de votre équipement
     Phonemarket,
 
--   **Objet parent** : indique l’objet parent auquel appartient
+-   **Objeto padre** : especifica el objeto padre al que pertenece
     l’équipement,
 
 -   **Activer** : permet de rendre votre équipement actif,
