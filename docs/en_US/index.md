@@ -17,8 +17,7 @@ messages automatiques à partir de Jeedom.
 >
 > Les SMS sont limités à 140 caractères et les appels à 450 caractères.
 
-Configuration du plugin 
-=======================
+== Plugin configuration
 
 Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
 il n’y a aucune configuration à ce niveau.
@@ -48,15 +47,15 @@ Une fois que vous cliquez sur l’un d’eux, vous obtenez :
 
 ![phonemarket4](../images/phonemarket4.PNG)
 
-Vous retrouvez ici toute la configuration de votre équipement :
+You can find here the full configuration of your device :
 
 -   **Nom de l’équipement Phonemarket** : nom de votre équipement
     Phonemarket,
 
--   **Objet parent** : indique l’objet parent auquel appartient
-    l’équipement,
+-   **Parent Object** : means the parent object the equipment depend
+    equipment,
 
--   **Activer** : permet de rendre votre équipement actif,
+-   ** Enable **: to make your equipment active,
 
 -   **Visible** : rend votre équipement visible sur le dashboard.
 
