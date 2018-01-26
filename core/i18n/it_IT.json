@@ -2,9 +2,9 @@
     "plugins/phonemarket/desktop/php/phonemarket.php": {
         "Ajouter un équipement": "Aggiungi dispositivo",
         "Rechercher": "Cerca",
-        "Mes équipements market phone": "Mes équipements market phone",
+        "Mes équipements market phone": "Il mio mercato apparecchiature telefoniche",
         "Général": "Principale",
-        "Nom de l'équipement phonemarket": "Nom de l'équipement phonemarket",
+        "Nom de l'équipement phonemarket": "Nome attrezzature phonemarket",
         "Nom de l'équipement template": "Nome di attrezzature template",
         "Objet parent": "Oggetto padre",
         "Aucun": "Nessuno",
@@ -14,17 +14,17 @@
         "Ajouter une commande": "Aggiungi un comando",
         "Nom": "Nome",
         "Type": "Tipo",
-        "Numéro": "Numéro",
+        "Numéro": "numero",
         "Supprimer": "Elimina",
         "Sauvegarder": "Salva"
     },
     "plugins/phonemarket/desktop/js/phonemarket.js": {
         "SMS": "SMS",
-        "Appels": "Appels",
+        "Appels": "chiamata",
         "Tester": "Prova"
     },
     "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin per utilizzare il mercato come gateway SMS e di effettuare chiamate",
         "Aucune": "Nessuno"
     }
 }
