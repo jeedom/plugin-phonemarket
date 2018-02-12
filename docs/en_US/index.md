@@ -19,12 +19,12 @@ messages automatiques à partir de Jeedom.
 
 == Plugin configuration
 
-Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
-il n’y a aucune configuration à ce niveau.
+After downloading the plugin, you just have to activate it,
+there is no configuration at this level.
 
 ![phonemarket1](../images/phonemarket1.PNG)
 
-Configuration des équipements 
+Equipment configuration
 =============================
 
 La configuration des équipements Phonemarket est accessible à partir du
