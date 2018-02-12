@@ -17,7 +17,7 @@ messages automatiques à partir de Jeedom.
 >
 > Les SMS sont limités à 140 caractères et les appels à 450 caractères.
 
-Configuration du plugin 
+configuración del plugin
 =======================
 
 Après téléchargement du plugin, il vous suffit juste d’activer celui-ci,
@@ -54,9 +54,9 @@ Aquí encontrará toda la configuración de su dispositivo:
     Phonemarket,
 
 -   **Objeto padre** : especifica el objeto padre al que pertenece
-    l’équipement,
+    equipos,
 
--   **Activer** : permet de rendre votre équipement actif,
+-   ** ** Activar: para que su equipo activo,
 
 -   **Visible** : rend votre équipement visible sur le dashboard.
 
