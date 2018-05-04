@@ -10,7 +10,7 @@ messages automatiques à partir de Jeedom.
 >
 > Le plugin marche sur un système de crédit, 1 SMS = 1 crédit, 1 appel =
 > 2 crédits. Vous pouvez consulter votre crédit
-> [ici](http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms). En cas
+> [ici](http://market.jeedom.fr/index.php?v=d&p=profils). En cas
 > de crédits faibles (moins de 5), un mail vous sera envoyé.
 
 > **Important**
