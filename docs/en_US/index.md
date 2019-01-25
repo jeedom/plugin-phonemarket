@@ -59,7 +59,7 @@ You can find here the full configuration of your device :
 
 -   **Visible** : rend votre équipement visible sur le dashboard.
 
-En-dessous vous retrouvez la liste des commandes :
+Below you will find the list of commands:
 
 -   **Nom** : le nom affiché sur le dashboard,
 
