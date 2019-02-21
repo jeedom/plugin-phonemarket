@@ -43,7 +43,7 @@ Voilà à quoi ressemble la page du plugin Phonemarket (ici avec déjà 1
 > permet de faire apparaître un menu d’accès rapide (vous pouvez, à
 > partir de votre profil, le laisser toujours visible).
 
-Une fois que vous cliquez sur l’un d’eux, vous obtenez :
+Once you click on one of them, you get:
 
 ![phonemarket4](../images/phonemarket4.PNG)
 
