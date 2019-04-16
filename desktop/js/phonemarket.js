@@ -41,6 +41,6 @@ function addCmdToTable(_cmd) {
         tr += '<i class="fa fa-minus-circle pull-right cmdAction cursor" data-action="remove"></i></td>';
         tr += '</tr>';
         $('#table_cmd tbody').append(tr);
-        $('#table_cmd tbody tr:last').setValues(_cmd, '.cmdAttr');
+        $('#table_cmd tbody tr').last().setValues(_cmd, '.cmdAttr');
     }
 }
