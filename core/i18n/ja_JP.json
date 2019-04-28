@@ -1,0 +1,30 @@
+{
+    "plugins/phonemarket/desktop/php/phonemarket.php": {
+        "Ajouter un équipement": "機器を追加します",
+        "Rechercher": "検索する",
+        "Mes équipements market phone": "自分の携帯電話機器市場",
+        "Général": "コモン",
+        "Nom de l'équipement phonemarket": "名前phonemarket機器",
+        "Nom de l'équipement template": "テンプレート機器の名称",
+        "Objet parent": "親オブジェクト",
+        "Aucun": "何でもありません",
+        "Activer": "アクティブにし",
+        "Visible": "目に見えます",
+        "Commande": "オーダー",
+        "Ajouter une commande": "コマンドの追加",
+        "Nom": "表題",
+        "Type": "タイプ",
+        "Numéro": "番号",
+        "Supprimer": "取り除きます",
+        "Sauvegarder": "セーブ"
+    },
+    "plugins/phonemarket/desktop/js/phonemarket.js": {
+        "SMS": "SMS",
+        "Appels": "コール",
+        "Tester": "テスト"
+    },
+    "plugins/phonemarket/plugin_info/info.xml": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "SMSゲートウェイとして市場を使用すると、呼び出しを行うためのプラグイン",
+        "Aucune": "何でもありません"
+    }
+}

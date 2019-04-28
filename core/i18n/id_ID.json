@@ -4,7 +4,7 @@
         "Rechercher": "Mencari",
         "Mes équipements market phone": "Peralatanku market phone",
         "Général": "Umum",
-        "Nom de l'équipement phonemarket": "Nom de l'équipement phonemarket",
+        "Nom de l'équipement phonemarket": "Nama peralatan phonemarket",
         "Nom de l'équipement template": "Nama peralatan contoh",
         "Objet parent": "Objek induk",
         "Aucun": "Tak ada",
@@ -14,17 +14,17 @@
         "Ajouter une commande": "Tambahan pesanan",
         "Nom": "Nama",
         "Type": "Jenis",
-        "Numéro": "Numéro",
+        "Numéro": "jumlah",
         "Supprimer": "Menghapus",
         "Sauvegarder": "Menyimpan"
     },
     "plugins/phonemarket/desktop/js/phonemarket.js": {
         "SMS": "SMS",
-        "Appels": "Appels",
+        "Appels": "panggilan",
         "Tester": "Coba"
     },
     "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin untuk menggunakan pasar sebagai SMS gateway dan untuk membuat panggilan",
         "Aucune": "Tak ada"
     }
 }
