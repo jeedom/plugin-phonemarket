@@ -1,29 +1,10 @@
 {
-    "plugins/phonemarket/desktop/php/phonemarket.php": {
-        "Ajouter un équipement": "Добавить оборудование",
-        "Rechercher": "Искать",
-        "Mes équipements market phone": "Мое оборудование phonemarket",
-        "Général": "Главная",
-        "Nom de l'équipement phonemarket": "Имя оборудование phonemarket ",
-        "Nom de l'équipement template": "Название шаблона оборудования",
-        "Objet parent": "Родительский объект",
-        "Aucun": "Нет",
-        "Activer": "Активировать",
-        "Visible": "Видимый",
-        "Commande": "Команда",
-        "Ajouter une commande": "Добавить команду",
-        "Nom": "Имя",
-        "Type": "Тип",
-        "Numéro": "Номер",
-        "Supprimer": "Удалить",
-        "Sauvegarder": "Сохранить"
-    },
-    "plugins/phonemarket/desktop/js/phonemarket.js": {
+    "desktop\/js\/phonemarket.js": {
         "SMS": "СМС",
         "Appels": "Звонки",
         "Tester": "Тест"
     },
-    "plugins/phonemarket/plugin_info/info.xml": {
+    "desktop\/php\/phonemarket.php": {
         "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Плагин для использования Маркета в качестве СМС шлюза и чтобы делать звонки",
         "Aucune": "Нет"
     }

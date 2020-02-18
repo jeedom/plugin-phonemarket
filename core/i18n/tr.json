@@ -1,29 +1,10 @@
 {
-    "plugins/phonemarket/desktop/php/phonemarket.php": {
-        "Ajouter un équipement": "Donanım ekle",
-        "Rechercher": "Arayın",
-        "Mes équipements market phone": "Market phone cihazlarım",
-        "Général": "Genel",
-        "Nom de l'équipement phonemarket": "phonemarket cihszının ismi",
-        "Nom de l'équipement template": "Şablon cihazının ismi",
-        "Objet parent": "Üst nesne",
-        "Aucun": "Hiçbir",
-        "Activer": "Etkinleştirmek",
-        "Visible": "Görülebilir",
-        "Commande": "Komuta",
-        "Ajouter une commande": "Komuta ekle",
-        "Nom": "İsim",
-        "Type": "Ceşit",
-        "Numéro": "Numara",
-        "Supprimer": "Sil",
-        "Sauvegarder": "Kaydet"
-    },
-    "plugins/phonemarket/desktop/js/phonemarket.js": {
+    "desktop\/js\/phonemarket.js": {
         "SMS": "SMS",
         "Appels": "Aramalar",
         "Tester": "Dene"
     },
-    "plugins/phonemarket/plugin_info/info.xml": {
+    "desktop\/php\/phonemarket.php": {
         "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Marketi SMS ve arama için köprü olarak kullnmma eklentisi",
         "Aucune": "Hiçbir"
     }

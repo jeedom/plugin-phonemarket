@@ -1,29 +1,10 @@
 {
-    "plugins/phonemarket/desktop/php/phonemarket.php": {
-        "Ajouter un équipement": "Gerät hinzufügen",
-        "Rechercher": "Suchen nach",
-        "Mes équipements market phone": "Meine market phone Geräte",
-        "Général": "Allgemein",
-        "Nom de l'équipement phonemarket": "phonemarket Gerätename",
-        "Nom de l'équipement template": "Name der Vorlage ",
-        "Objet parent": "Eltern-Objekt",
-        "Aucun": "Ohne",
-        "Activer": "aktivieren",
-        "Visible": "Sichtbar",
-        "Commande": "Befehl",
-        "Ajouter une commande": "Kommando hinzufügen",
-        "Nom": "Name",
-        "Type": "Typ",
-        "Numéro": "Nummer",
-        "Supprimer": "Löschen",
-        "Sauvegarder": "Speichern"
-    },
-    "plugins/phonemarket/desktop/js/phonemarket.js": {
+    "desktop\/js\/phonemarket.js": {
         "SMS": "SMS",
         "Appels": "Apple",
         "Tester": "Test"
     },
-    "plugins/phonemarket/plugin_info/info.xml": {
+    "desktop\/php\/phonemarket.php": {
         "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin, um den Markt als ein SMS-Gateway zu verwenden und um Anrufe zu tätigen",
         "Aucune": "Ohne"
     }

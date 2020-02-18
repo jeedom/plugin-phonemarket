@@ -1,29 +1,10 @@
 {
-    "plugins/phonemarket/desktop/php/phonemarket.php": {
-        "Ajouter un équipement": "a adição de equipamentos",
-        "Rechercher": "Pesquisar",
-        "Mes équipements market phone": "Meu mercado de equipamentos de telefone",
-        "Général": "Geral",
-        "Nom de l'équipement phonemarket": "equipamentos phonemarket nome",
-        "Nom de l'équipement template": "Nome do equipamento modelo",
-        "Objet parent": "objeto pai",
-        "Aucun": "Nemhum",
-        "Activer": "Ativar",
-        "Visible": "Visível",
-        "Commande": "ordem",
-        "Ajouter une commande": "Adicionar comando",
-        "Nom": "Nome",
-        "Type": "tipo",
-        "Numéro": "número",
-        "Supprimer": "remover",
-        "Sauvegarder": "Salvar"
-    },
-    "plugins/phonemarket/desktop/js/phonemarket.js": {
+    "desktop\/js\/phonemarket.js": {
         "SMS": "SMS",
         "Appels": "chamada",
         "Tester": "teste"
     },
-    "plugins/phonemarket/plugin_info/info.xml": {
+    "desktop\/php\/phonemarket.php": {
         "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin para usar o mercado como gateway SMS e fazer chamadas",
         "Aucune": "Nenhum"
     }
