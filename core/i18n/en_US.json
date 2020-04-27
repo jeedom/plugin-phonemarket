@@ -1,32 +1,32 @@
 {
-    "desktop\/js\/phonemarket.js": {
-        "SMS": "SMS",
-        "Appels": "Calls",
-        "Tester": "Test"
-    },
-    "desktop\/php\/phonemarket.php": {
+    "plugins\/phonemarket\/desktop\/php\/phonemarket.php": {
         "401 - Accès non autorisé": "401 - Unauthorized access",
         "Gestion": "Management",
         "Ajouter": "Add",
-        "Mes PhoneMarket": "My PhoneMarket",
+        "Mes PhoneMarket": "",
         "Rechercher": "Search",
         "Configuration avancée": "Advanced configuration",
         "Dupliquer": "Duplicate",
         "Sauvegarder": "Save",
         "Supprimer": "Delete",
         "Equipement": "Equipment",
-        "Commandes": "Orders",
-        "Nom de l'équipement phonemarket": "Market phone device name",
-        "Nom de l'équipement template": "Template device name",
+        "Commandes": "Commands",
+        "Nom de l'équipement phonemarket": "",
+        "Nom de l'équipement template": "Equipment name template",
         "Objet parent": "Parent object",
         "Aucun": "None",
         "Activer": "Activate",
         "Visible": "Visible",
         "Catégorie": "Category",
-        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "An SMS is worth one credit, a call is worth 2 credits. Please note that SMS messages are truncated to 140 characters and calls to 450 characters. You can see your remaining credits <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">here<\/a>",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "",
         "Ajouter une commande": "Add a command",
         "Nom": "Name",
         "Type": "Type",
         "Numéro": "Number"
+    },
+    "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
+        "SMS": "SMS",
+        "Appels": "",
+        "Tester": "Test"
     }
 }

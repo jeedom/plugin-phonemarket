@@ -1,76 +1,76 @@
-Plugin permettant d’envoyer des SMS et de passer des appels avec
-messages automatiques à partir de Jeedom.
 
-> **Important**
+.
+
+> **Importante**
 >
-> Ce plugin passe par le market c’est donc un service cloud qui
-> nécessite une connexion internet pour fonctionner.
+> 
+> .
 
-> **Tip**
+> **Punta**
 >
-> Le plugin marche sur un système de crédit, 1 SMS  = 1 crédit pour la France sinon 2 crédits, 1 appel =
-> 2 crédits pour la France sinon 4 crédits. Vous pouvez consulter votre crédit
-> [ici](http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms). En cas
-> de crédits faibles (moins de 5), un mail vous sera envoyé.
+>  =
+> . 
+> [ici](http:?
+> .
 
-> **Important**
+> **Importante**
 >
-> Les SMS sont limités à 140 caractères et les appels à 450 caractères.
+> .
 
-configuración del plugin
+Configuración del plugin 
 =======================
 
-Después de descargar el plugin, sólo hay que activarlo,
-no hay ninguna configuración a este nivel.
+Después de descargar el complemento, solo necesita activarlo,
+no hay configuración a este nivel.
 
 ![phonemarket1](../images/phonemarket1.PNG)
 
-Configuración del dispositivo
+Configuración del equipo 
 =============================
 
-La configuration des équipements Phonemarket est accessible à partir du
-menu plugin :
+
+menú de complementos :
 
 ![phonemarket2](../images/phonemarket2.PNG)
 
-Voilà à quoi ressemble la page du plugin Phonemarket (ici avec déjà 1
-équipement) :
+
+equipos) :
 
 ![phonemarket3](../images/phonemarket3.PNG)
 
-> **Tip**
+> **Punta**
 >
-> Comme à beaucoup d’endroits sur Jeedom, placer la souris tout à gauche
-> permet de faire apparaître un menu d’accès rapide (vous pouvez, à
-> partir de votre profil, le laisser toujours visible).
+> Como en muchos lugares de Jeedom, coloca el mouse en el extremo izquierdo
+> muestra un menú de acceso rápido (puede, en
+> desde tu perfil, siempre déjalo visible).
 
-Une fois que vous cliquez sur l’un d’eux, vous obtenez :
+Una vez que haces clic en uno de ellos, obtienes :
 
 ![phonemarket4](../images/phonemarket4.PNG)
 
-Aquí encontrará toda la configuración de su dispositivo:
+Aquí encontrarás toda la configuración de tu equipo :
 
--   **Nom de l’équipement Phonemarket** : nom de votre équipement
-    Phonemarket,
+-   **** : nombre de su equipo
+    ,
 
--   **Objeto padre** : especifica el objeto padre al que pertenece
-    equipos,
+-   **Objeto padre** : indica el objeto padre al que pertenece
+    equipo,
 
--   ** ** Activar: para que su equipo activo,
+-   **Activar** : activa su equipo,
 
--   **Visible** : rend votre équipement visible sur le dashboard.
+-   **Visible** : hace que su equipo sea visible en el tablero.
 
-En-dessous vous retrouvez la liste des commandes :
+A continuación encontrará la lista de pedidos. :
 
--   **Nom** : le nom affiché sur le dashboard,
+-   **Nombre** : el nombre que se muestra en el tablero,
 
--   **Type** : type de commande (appels ou sms),
+-   **Puntao** : ,
 
--   **Numéro** : numéro de téléphone qui doit être appelé ou à qui un
-    SMS doit être envoyé (en fonction du type),
+-   **Número** : 
+    ,
 
--   **Tester** : permet de tester la commande,
+-   **Probar** : Se usa para probar el comando,
 
--   **Supprimer** (signe -) : permet de supprimer la commande.
+-   **Borrar** (signo -) : permite eliminar el comando.
 
 

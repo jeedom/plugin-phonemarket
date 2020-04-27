@@ -1,11 +1,32 @@
 {
-    "desktop\/js\/phonemarket.js": {
-        "SMS": "SMS",
-        "Appels": "chamada",
-        "Tester": "teste"
+    "plugins\/phonemarket\/desktop\/php\/phonemarket.php": {
+        "401 - Accès non autorisé": "401 - Acesso não autorizado",
+        "Gestion": "Gestão",
+        "Ajouter": "Adicionar",
+        "Mes PhoneMarket": "",
+        "Rechercher": "Pesquisa",
+        "Configuration avancée": "Configuração avançada",
+        "Dupliquer": "Duplicar",
+        "Sauvegarder": "Salvar",
+        "Supprimer": "Remover",
+        "Equipement": "Equipamento",
+        "Commandes": "Comandos",
+        "Nom de l'équipement phonemarket": "",
+        "Nom de l'équipement template": "Nome do equipamento modelo",
+        "Objet parent": "Objeto pai",
+        "Aucun": "Nemhum",
+        "Activer": "Ativar",
+        "Visible": "Visivél",
+        "Catégorie": "Categoria",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "",
+        "Ajouter une commande": "Adicionar comando",
+        "Nom": "Nome",
+        "Type": "Tipo",
+        "Numéro": ""
     },
-    "desktop\/php\/phonemarket.php": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin para usar o mercado como gateway SMS e fazer chamadas",
-        "Aucune": "Nenhum"
+    "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
+        "SMS": "",
+        "Appels": "",
+        "Tester": "Teste"
     }
 }

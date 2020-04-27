@@ -1,11 +1,32 @@
 {
-    "desktop\/js\/phonemarket.js": {
-        "SMS": "SMS",
-        "Appels": "panggilan",
-        "Tester": "Coba"
+    "plugins\/phonemarket\/desktop\/php\/phonemarket.php": {
+        "401 - Accès non autorisé": "401 - Akses tidak sah",
+        "Gestion": "Manajemen",
+        "Ajouter": "Tambahan",
+        "Mes PhoneMarket": "",
+        "Rechercher": "Pencarian",
+        "Configuration avancée": "Konfigurasi lanjutan",
+        "Dupliquer": "Duplikat",
+        "Sauvegarder": "Menyimpan",
+        "Supprimer": "Menghapus",
+        "Equipement": "Peralatan",
+        "Commandes": "Perintah",
+        "Nom de l'équipement phonemarket": "",
+        "Nom de l'équipement template": "Nama peralatan contoh",
+        "Objet parent": "Objek induk",
+        "Aucun": "Tak ada",
+        "Activer": "Mengaktifkan",
+        "Visible": "Terlihat",
+        "Catégorie": "Kategori",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "",
+        "Ajouter une commande": "Tambahan pesanan",
+        "Nom": "Nama",
+        "Type": "Jenis",
+        "Numéro": ""
     },
-    "desktop\/php\/phonemarket.php": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin untuk menggunakan pasar sebagai SMS gateway dan untuk membuat panggilan",
-        "Aucune": "Tak ada"
+    "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
+        "SMS": "",
+        "Appels": "",
+        "Tester": "Coba"
     }
 }

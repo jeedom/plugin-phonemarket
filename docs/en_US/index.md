@@ -1,75 +1,76 @@
-Plugin permettant d’envoyer des SMS et de passer des appels avec
-messages automatiques à partir de Jeedom.
+
+.
 
 > **Important**
 >
-> Ce plugin passe par le market c’est donc un service cloud qui
-> nécessite une connexion internet pour fonctionner.
+> 
+> .
 
 > **Tip**
 >
-> Le plugin marche sur un système de crédit, 1 SMS  = 1 crédit pour la France sinon 2 crédits, 1 appel =
-> 2 crédits pour la France sinon 4 crédits. Vous pouvez consulter votre crédit
-> [ici](http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms). En cas
-> de crédits faibles (moins de 5), un mail vous sera envoyé.
+>  =
+> . 
+> [ici](http:?
+> .
 
 > **Important**
 >
-> Les SMS sont limités à 140 caractères et les appels à 450 caractères.
+> .
 
-== Plugin configuration
+Plugin configuration 
+=======================
 
-After downloading the plugin, you just have to activate it,
+After downloading the plugin, you just need to activate it,
 there is no configuration at this level.
 
 ![phonemarket1](../images/phonemarket1.PNG)
 
-Equipment configuration
+Equipment configuration 
 =============================
 
-La configuration des équipements Phonemarket est accessible à partir du
-menu plugin :
+
+plugin menu :
 
 ![phonemarket2](../images/phonemarket2.PNG)
 
-Voilà à quoi ressemble la page du plugin Phonemarket (ici avec déjà 1
-équipement) :
+
+equipment) :
 
 ![phonemarket3](../images/phonemarket3.PNG)
 
 > **Tip**
 >
-> Comme à beaucoup d’endroits sur Jeedom, placer la souris tout à gauche
-> permet de faire apparaître un menu d’accès rapide (vous pouvez, à
-> partir de votre profil, le laisser toujours visible).
+> As in many places on Jeedom, place the mouse on the far left
+> brings up a quick access menu (you can, at
+> from your profile, always leave it visible).
 
-Once you click on one of them, you get:
+Once you click on one of them, you get :
 
 ![phonemarket4](../images/phonemarket4.PNG)
 
-You can find here the full configuration of your device :
+Here you find all the configuration of your equipment :
 
--   **Nom de l’équipement Phonemarket** : nom de votre équipement
-    Phonemarket,
+-   **** : name of your equipment
+    ,
 
--   **Parent Object** : means the parent object the equipment depend
+-   **Parent object** : indicates the parent object to which belongs
     equipment,
 
--   **Enable**: to make your equipment active,
+-   **Activate** : makes your equipment active,
 
--   **Visible** : rend votre équipement visible sur le dashboard.
+-   **Visible** : makes your equipment visible on the dashboard.
 
-Below you will find the list of commands:
+Below you find the list of orders :
 
--   **Nom** : le nom affiché sur le dashboard,
+-   **Name** : the name displayed on the dashboard,
 
--   **Type** : type de commande (appels ou sms),
+-   **Type** : ,
 
--   **Numéro** : numéro de téléphone qui doit être appelé ou à qui un
-    SMS doit être envoyé (en fonction du type),
+-   **Number** : 
+    ,
 
--   **Tester** : permet de tester la commande,
+-   **Test** : Used to test the command,
 
--   **Supprimer** (signe -) : permet de supprimer la commande.
+-   **Delete** (sign -) : allows to delete the command.
 
 

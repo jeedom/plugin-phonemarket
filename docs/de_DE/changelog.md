@@ -1,9 +1,8 @@
-# 07/08/2019
+# 
 
-- Aktualisierung des Dokuments
-- Correction pour php 7.3
+- Aktualisieren des Dokuments
+- 
 
-# 29/04/2019
+# 29.04.2019
 
-- Verbesserung der Schnittstelle
-        
+- Verbesserte Oberfläche

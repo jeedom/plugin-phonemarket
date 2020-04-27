@@ -1,76 +1,76 @@
-Plugin permettant d’envoyer des SMS et de passer des appels avec
-messages automatiques à partir de Jeedom.
 
-> **Important**
+.
+
+> **Wichtig**
 >
-> Ce plugin passe par le market c’est donc un service cloud qui
-> nécessite une connexion internet pour fonctionner.
+> 
+> .
 
-> **Tip**
+> **Spitze**
 >
-> Le plugin marche sur un système de crédit, 1 SMS  = 1 crédit pour la France sinon 2 crédits, 1 appel =
-> 2 crédits pour la France sinon 4 crédits. Vous pouvez consulter votre crédit
-> [ici](http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms). En cas
-> de crédits faibles (moins de 5), un mail vous sera envoyé.
+>  =
+> . 
+> [ici](http:?
+> .
 
-> **Important**
+> **Wichtig**
 >
-> Les SMS sont limités à 140 caractères et les appels à 450 caractères.
+> .
 
-Plugin-Konfiguration
+Plugin Konfiguration 
 =======================
 
-Nachdem das Plugin herunterzuladen, müssen Sie nur um es zu aktivieren,
-gibt es auf dieser Ebene keine Konfiguration.
+Nach dem Herunterladen des Plugins müssen Sie es nur noch aktivieren,
+Auf dieser Ebene gibt es keine Konfiguration.
 
 ![phonemarket1](../images/phonemarket1.PNG)
 
-Gerätekonfiguration
+Gerätekonfiguration 
 =============================
 
-La configuration des équipements Phonemarket est accessible à partir du
-menu plugin :
+
+Plugin-Menü :
 
 ![phonemarket2](../images/phonemarket2.PNG)
 
-Voilà à quoi ressemble la page du plugin Phonemarket (ici avec déjà 1
-équipement) :
+
+Ausrüstung) :
 
 ![phonemarket3](../images/phonemarket3.PNG)
 
-> **Tip**
+> **Spitze**
 >
-> Wie an vielen Stellen in Jeedom kann mit dem Mauszeiger ganz links, ein
-> Menü mit Schnellzugriff aufgerufen werden (Sie können in Ihrem Profil
-> immer sichtbar einstellen).  
+> Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
+> ruft ein Schnellzugriffsmenü auf (Sie können unter
+> Lassen Sie es in Ihrem Profil immer sichtbar.).
 
-Sobald Sie eines davon anklicken, erhalten Sie :
+Sobald Sie auf eine davon klicken, erhalten Sie :
 
 ![phonemarket4](../images/phonemarket4.PNG)
 
-Sie werden hier alle die Konfiguration Ihrer Geräte finden:
+Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Nom de l’équipement Phonemarket** : nom de votre équipement
-    Phonemarket,
+-   **** : Name Ihrer Ausrüstung
+    ,
 
--   **Übergeordnete Objekt** zeigt das übergeordnete Objekt gehört
+-   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
 
--   **Aktivieren**: auf Ihre aktive Ausrüstung zu machen,
+-   **Aktivieren** : macht Ihre Ausrüstung aktiv,
 
--   **Visible** : rend votre équipement visible sur le dashboard.
+-   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
-En-dessous vous retrouvez la liste des commandes :
+Nachfolgend finden Sie die Liste der Bestellungen :
 
--   **Nom** : le nom affiché sur le dashboard,
+-   **Name** : Der im Dashboard angezeigte Name,
 
--   **Type** : type de commande (appels ou sms),
+-   **Typ** : ,
 
--   **Numéro** : numéro de téléphone qui doit être appelé ou à qui un
-    SMS doit être envoyé (en fonction du type),
+-   **Anzahl** : 
+    ,
 
--   **Tester** : permet de tester la commande,
+-   **Test** : Wird zum Testen des Befehls verwendet,
 
--   **Supprimer** (signe -) : permet de supprimer la commande.
+-   **Löschen** (Zeichen -) : ermöglicht das Löschen des Befehls.
 
 
