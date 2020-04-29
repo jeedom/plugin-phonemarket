@@ -1,21 +1,21 @@
+Plugin zum Senden von SMS und Telefonieren mit
+automatische Nachrichten von Jeedom.
 
-.
-
-> **Wichtig**
+> **Important**
 >
-> 
-> .
+> Dieses Plugin geht durch den Markt, es ist also ein Cloud-Dienst, der
+> erfordert eine Internetverbindung, um zu funktionieren.
 
-> **Spitze**
+> **Tip**
 >
->  =
-> . 
-> [ici](http:?
-> .
+> Das Plugin arbeitet mit einem Kreditsystem, 1 SMS = 1 Guthaben für Frankreich, sonst 2 Guthaben, 1 Anruf =
+> 2 Credits für Frankreich sonst 4 Credits. Sie können Ihr Guthaben überprüfen
+> [hier](http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms). Für den Fall
+> Bei niedrigen Credits (weniger als 5) wird eine E-Mail an Sie gesendet.
 
-> **Wichtig**
+> **Important**
 >
-> .
+> Textnachrichten sind auf 140 Zeichen und Anrufe auf 450 Zeichen begrenzt.
 
 Plugin Konfiguration 
 =======================
@@ -28,17 +28,17 @@ Auf dieser Ebene gibt es keine Konfiguration.
 Gerätekonfiguration 
 =============================
 
-
+Die Konfiguration der Telefonmarkt-Geräte ist über die
 Plugin-Menü :
 
 ![phonemarket2](../images/phonemarket2.PNG)
 
-
+So sieht die Telefonmarkt-Plugin-Seite aus (hier mit bereits 1
 Ausrüstung) :
 
 ![phonemarket3](../images/phonemarket3.PNG)
 
-> **Spitze**
+> **Tip**
 >
 > Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
 > ruft ein Schnellzugriffsmenü auf (Sie können unter
@@ -50,27 +50,27 @@ Sobald Sie auf eine davon klicken, erhalten Sie :
 
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **** : Name Ihrer Ausrüstung
-    ,
+-   **Name des Telefonmarktgeräts** : Name Ihrer Ausrüstung
+    Telefonmarkt,
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
 
--   **Aktivieren** : macht Ihre Ausrüstung aktiv,
+-   **Activer** : macht Ihre Ausrüstung aktiv,
 
--   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
+-   **Visible** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
 Nachfolgend finden Sie die Liste der Bestellungen :
 
--   **Name** : Der im Dashboard angezeigte Name,
+-   **Nom** : Der im Dashboard angezeigte Name,
 
--   **Typ** : ,
+-   **Type** : Art der Bestellung (Anrufe oder SMS),
 
--   **Anzahl** : 
-    ,
+-   **Anzahl** : anzurufende Telefonnummer oder an wen a
+    SMS muss gesendet werden (je nach Typ),
 
--   **Test** : Wird zum Testen des Befehls verwendet,
+-   **Tester** : Wird zum Testen des Befehls verwendet,
 
--   **Löschen** (Zeichen -) : ermöglicht das Löschen des Befehls.
+-   **Supprimer** (Zeichen -) : ermöglicht das Löschen des Befehls.
 
 
