@@ -28,12 +28,12 @@ Auf dieser Ebene gibt es keine Konfiguration.
 Gerätekonfiguration 
 =============================
 
-Die Konfiguration der Telefonmarkt-Geräte ist über die
+Die Konfiguration der Phonemarket-Geräte ist über die
 Plugin-Menü :
 
 ![phonemarket2](../images/phonemarket2.PNG)
 
-So sieht die Telefonmarkt-Plugin-Seite aus (hier mit bereits 1
+So sieht die Phonemarket-Plugin-Seite aus (hier mit bereits 1
 Ausrüstung) :
 
 ![phonemarket3](../images/phonemarket3.PNG)
@@ -51,7 +51,7 @@ Sobald Sie auf eine davon klicken, erhalten Sie :
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
 -   **Name des Telefonmarktgeräts** : Name Ihrer Ausrüstung
-    Telefonmarkt,
+    Phonemarket,
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
