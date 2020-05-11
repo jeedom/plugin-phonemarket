@@ -1,19 +1,19 @@
 Plugin zum Senden von SMS und Telefonieren mit
 automatische Nachrichten von Jeedom.
 
-> **Important**
+> **Wichtig**
 >
 > Dieses Plugin geht durch den Markt, es ist also ein Cloud-Dienst, der
 > erfordert eine Internetverbindung, um zu funktionieren.
 
-> **Tip**
+> **Spitze**
 >
 > Das Plugin arbeitet mit einem Kreditsystem, 1 SMS = 1 Guthaben für Frankreich, sonst 2 Guthaben, 1 Anruf =
 > 2 Credits für Frankreich sonst 4 Credits. Sie können Ihr Guthaben überprüfen
 > [hier](http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms). Für den Fall
 > Bei niedrigen Credits (weniger als 5) wird eine E-Mail an Sie gesendet.
 
-> **Important**
+> **Wichtig**
 >
 > Textnachrichten sind auf 140 Zeichen und Anrufe auf 450 Zeichen begrenzt.
 
@@ -38,7 +38,7 @@ Ausrüstung) :
 
 ![phonemarket3](../images/phonemarket3.PNG)
 
-> **Tip**
+> **Spitze**
 >
 > Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
 > ruft ein Schnellzugriffsmenü auf (Sie können unter
@@ -50,27 +50,27 @@ Sobald Sie auf eine davon klicken, erhalten Sie :
 
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Name des Telefonmarktgeräts** : Name Ihrer Ausrüstung
+-   **Name de Ausrüstung Telefonmarkt** : Name Ihrer Ausrüstung
     Phonemarket,
 
 -   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
     Ausrüstung,
 
--   **Activer** : macht Ihre Ausrüstung aktiv,
+-   **Aktivieren** : macht Ihre Ausrüstung aktiv,
 
--   **Visible** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
+-   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
 Nachfolgend finden Sie die Liste der Bestellungen :
 
--   **Nom** : Der im Dashboard angezeigte Name,
+-   **Name** : Der im Dashboard angezeigte Name,
 
--   **Type** : Art der Bestellung (Anrufe oder SMS),
+-   **Typ** : Art der Bestellung (Anrufe oder SMS),
 
 -   **Anzahl** : anzurufende Telefonnummer oder an wen a
     SMS muss gesendet werden (je nach Typ),
 
--   **Tester** : Wird zum Testen des Befehls verwendet,
+-   **Test** : Wird zum Testen des Befehls verwendet,
 
--   **Supprimer** (Zeichen -) : ermöglicht das Löschen des Befehls.
+-   **Löschen** (Zeichen -) : ermöglicht das Löschen des Befehls.
 
 

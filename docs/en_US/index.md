@@ -50,27 +50,27 @@ Once you click on one of them, you get :
 
 Here you find all the configuration of your equipment :
 
--   **Name of the phonemarket equipment** : name of your equipment
+-   **Name de equipment Phonemarket** : name of your equipment
     Phonemarket,
 
 -   **Parent object** : indicates the parent object to which belongs
     equipment,
 
--   **Activer** : makes your equipment active,
+-   **Activate** : makes your equipment active,
 
 -   **Visible** : makes your equipment visible on the dashboard.
 
 Below you find the list of orders :
 
--   **Nom** : the name displayed on the dashboard,
+-   **Name** : the name displayed on the dashboard,
 
 -   **Type** : type of order (calls or sms),
 
 -   **Number** : telephone number to be called or to whom a
     SMS must be sent (depending on the type),
 
--   **Tester** : Used to test the command,
+-   **Test** : Used to test the command,
 
--   **Supprimer** (sign -) : allows to delete the command.
+-   **Delete** (sign -) : allows to delete the command.
 
 
