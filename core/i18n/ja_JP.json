@@ -1,30 +1,32 @@
 {
-    "plugins/phonemarket/desktop/php/phonemarket.php": {
-        "Ajouter un équipement": "機器を追加します",
-        "Rechercher": "検索する",
-        "Mes équipements market phone": "自分の携帯電話機器市場",
-        "Général": "コモン",
-        "Nom de l'équipement phonemarket": "名前phonemarket機器",
+    "plugins\/phonemarket\/desktop\/php\/phonemarket.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Gestion": "管理",
+        "Ajouter": "加えます",
+        "Mes PhoneMarket": "",
+        "Rechercher": "検索",
+        "Configuration avancée": "高度な構成",
+        "Dupliquer": "重複",
+        "Sauvegarder": "セーブ",
+        "Supprimer": "取り除きます",
+        "Equipement": "設備",
+        "Commandes": "コマンド",
+        "Nom de l'équipement phonemarket": "",
         "Nom de l'équipement template": "テンプレート機器の名称",
         "Objet parent": "親オブジェクト",
         "Aucun": "何でもありません",
-        "Activer": "アクティブにし",
+        "Activer": "アクティブ",
         "Visible": "目に見えます",
-        "Commande": "オーダー",
+        "Catégorie": "カテゴリ",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "",
         "Ajouter une commande": "コマンドの追加",
         "Nom": "表題",
         "Type": "タイプ",
-        "Numéro": "番号",
-        "Supprimer": "取り除きます",
-        "Sauvegarder": "セーブ"
+        "Numéro": ""
     },
-    "plugins/phonemarket/desktop/js/phonemarket.js": {
-        "SMS": "SMS",
-        "Appels": "コール",
+    "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
+        "SMS": "",
+        "Appels": "",
         "Tester": "テスト"
-    },
-    "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "SMSゲートウェイとして市場を使用すると、呼び出しを行うためのプラグイン",
-        "Aucune": "何でもありません"
     }
 }

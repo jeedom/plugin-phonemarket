@@ -1,30 +1,32 @@
 {
-    "plugins/phonemarket/desktop/php/phonemarket.php": {
-        "Ajouter un équipement": "Add device",
+    "plugins\/phonemarket\/desktop\/php\/phonemarket.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Gestion": "Management",
+        "Ajouter": "Add",
+        "Mes PhoneMarket": "My PhoneMarket",
         "Rechercher": "Search",
-        "Mes équipements market phone": "My market phone devices",
-        "Général": "Main",
-        "Nom de l'équipement phonemarket": "Market phone device name",
-        "Nom de l'équipement template": "Template device name",
+        "Configuration avancée": "Advanced configuration",
+        "Dupliquer": "Duplicate",
+        "Sauvegarder": "Save",
+        "Supprimer": "Delete",
+        "Equipement": "Equipment",
+        "Commandes": "Commands",
+        "Nom de l'équipement phonemarket": "Name of the phonemarket equipment",
+        "Nom de l'équipement template": "Equipment name template",
         "Objet parent": "Parent object",
         "Aucun": "None",
         "Activer": "Activate",
         "Visible": "Visible",
-        "Commande": "Command",
+        "Catégorie": "Category",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "An SMS is worth one credit, a call is worth 2 credits. Please note that SMS messages are truncated to 140 characters and calls to 450 characters. You can see your remaining credits <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">here<\/a>",
         "Ajouter une commande": "Add a command",
         "Nom": "Name",
         "Type": "Type",
-        "Numéro": "Number",
-        "Supprimer": "Delete",
-        "Sauvegarder": "Save"
+        "Numéro": "Number"
     },
-    "plugins/phonemarket/desktop/js/phonemarket.js": {
+    "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
         "SMS": "SMS",
         "Appels": "Calls",
         "Tester": "Test"
-    },
-    "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin to use market as SMS and phone call gateway",
-        "Aucune": "None"
     }
 }

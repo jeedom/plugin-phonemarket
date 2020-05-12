@@ -1,30 +1,32 @@
 {
-    "plugins/phonemarket/desktop/php/phonemarket.php": {
-        "Ajouter un équipement": "Gerät hinzufügen",
+    "plugins\/phonemarket\/desktop\/php\/phonemarket.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Gestion": "Verwaltung",
+        "Ajouter": "Hinzufügen",
+        "Mes PhoneMarket": "Mein Telefonmarkt",
         "Rechercher": "Suchen nach",
-        "Mes équipements market phone": "Meine market phone Geräte",
-        "Général": "Allgemein",
-        "Nom de l'équipement phonemarket": "phonemarket Gerätename",
-        "Nom de l'équipement template": "Name der Vorlage ",
-        "Objet parent": "Eltern-Objekt",
+        "Configuration avancée": "Erweiterte Konfiguration",
+        "Dupliquer": "Duplikat",
+        "Sauvegarder": "Speichern",
+        "Supprimer": "Löschen",
+        "Equipement": "Gerät",
+        "Commandes": "Befehle",
+        "Nom de l'équipement phonemarket": "Name des Telefonmarktgeräts",
+        "Nom de l'équipement template": "Gerätename Vorlage",
+        "Objet parent": "Übergeordnetes Objekt",
         "Aucun": "Ohne",
-        "Activer": "aktivieren",
+        "Activer": "Aktivieren",
         "Visible": "Sichtbar",
-        "Commande": "Befehl",
+        "Catégorie": "Kategorie",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "Eine SMS ist ein Guthaben wert, ein Anruf 2 Guthaben. Bitte beachten Sie, dass SMS-Nachrichten auf 140 Zeichen und Anrufe auf 450 Zeichen gekürzt werden. Sie können Ihre verbleibenden Credits <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">hier sehen<\/a>",
         "Ajouter une commande": "Kommando hinzufügen",
         "Nom": "Name",
         "Type": "Typ",
-        "Numéro": "Nummer",
-        "Supprimer": "Löschen",
-        "Sauvegarder": "Speichern"
+        "Numéro": "Anzahl"
     },
-    "plugins/phonemarket/desktop/js/phonemarket.js": {
+    "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
         "SMS": "SMS",
-        "Appels": "Apple",
+        "Appels": "Anrufe",
         "Tester": "Test"
-    },
-    "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin, um den Markt als ein SMS-Gateway zu verwenden und um Anrufe zu tätigen",
-        "Aucune": "Ohne"
     }
 }

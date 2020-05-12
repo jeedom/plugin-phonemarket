@@ -1,30 +1,32 @@
 {
-    "plugins/phonemarket/desktop/php/phonemarket.php": {
-        "Ajouter un équipement": "Añadir un dispositivo",
+    "plugins\/phonemarket\/desktop\/php\/phonemarket.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Gestion": "Gestión",
+        "Ajouter": "Añadir",
+        "Mes PhoneMarket": "My PhoneMarket",
         "Rechercher": "Buscar",
-        "Mes équipements market phone": "Mis dispositivos market phone",
-        "Général": "Principal",
-        "Nom de l'équipement phonemarket": "Nombre del dispositivo phonemarket",
-        "Nom de l'équipement template": "Nombre del dispositivo plantilla",
+        "Configuration avancée": "Configuración avanzada",
+        "Dupliquer": "Duplicar",
+        "Sauvegarder": "Guardar",
+        "Supprimer": "Borrar",
+        "Equipement": "Dispositivos",
+        "Commandes": "Comandos",
+        "Nom de l'équipement phonemarket": "Nombre del equipo del mercado telefónico",
+        "Nom de l'équipement template": "Plantilla de nombre de equipo",
         "Objet parent": "Objeto padre",
-        "Aucun": "Ningún",
+        "Aucun": "Ninguna",
         "Activer": "Activar",
         "Visible": "Visible",
-        "Commande": "Comando",
+        "Catégorie": "Categoría",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "Un SMS vale un crédito, una llamada vale 2 créditos. Tenga en cuenta que los mensajes SMS se truncan a 140 caracteres y las llamadas a 450 caracteres. Puedes ver tus créditos restantes <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">aquí<\/a>",
         "Ajouter une commande": "Añadir una orden",
         "Nom": "Nombre",
         "Type": "Tipo",
-        "Numéro": "Número",
-        "Supprimer": "Borrar",
-        "Sauvegarder": "Guardar"
+        "Numéro": "Número"
     },
-    "plugins/phonemarket/desktop/js/phonemarket.js": {
+    "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
         "SMS": "SMS",
         "Appels": "Llamadas",
         "Tester": "Probar"
-    },
-    "plugins/phonemarket/plugin_info/info.xml": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin para utilizar el Market como pasarela SMS y para hacer llamadas",
-        "Aucune": "Ninguna"
     }
 }
