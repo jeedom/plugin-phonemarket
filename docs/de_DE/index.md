@@ -1,48 +1,34 @@
-Plugin zum Senden von SMS und Telefonieren mit
-automatische Nachrichten von Jeedom.
+# Telefon Markt Plugin
+
+Plugin zum Senden von SMS und Telefonieren mit automatischen Nachrichten von Jeedom.
 
 > **Wichtig**
 >
-> Dieses Plugin geht durch den Markt, es ist also ein Cloud-Dienst, der
-> erfordert eine Internetverbindung, um zu funktionieren.
+> Dieses Plugin geht durch den Markt, es ist also ein Cloud-Dienst, für dessen Funktion eine Internetverbindung erforderlich ist.
 
 > **Spitze**
 >
-> Das Plugin arbeitet mit einem Kreditsystem, 1 SMS = 1 Guthaben für Frankreich, sonst 2 Guthaben, 1 Anruf =
-> 2 Credits für Frankreich sonst 4 Credits. Sie können Ihr Guthaben überprüfen
-> [hier](http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms). Für den Fall
-> Bei niedrigen Credits (weniger als 5) wird eine E-Mail an Sie gesendet.
+> Das Plugin arbeitet mit einem Kreditsystem, 1 SMS = 1 Kredit für Frankreich, sonst 2 Credits, 1 Anruf = 2 Credits für Frankreich, sonst 4 Credits. Sie können Ihr Guthaben überprüfen [hier](http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms). Bei niedrigen Credits (weniger als 5) wird eine E-Mail an Sie gesendet.
 
 > **Wichtig**
 >
 > Textnachrichten sind auf 140 Zeichen und Anrufe auf 450 Zeichen begrenzt.
 
-Plugin Konfiguration 
-=======================
+# Plugin Konfiguration 
 
-Nach dem Herunterladen des Plugins müssen Sie es nur noch aktivieren,
-Auf dieser Ebene gibt es keine Konfiguration.
+Nachdem Sie das Plugin heruntergeladen haben, müssen Sie es nur noch aktivieren. Auf dieser Ebene gibt es keine Konfiguration.
 
 ![phonemarket1](../images/phonemarket1.PNG)
 
-Gerätekonfiguration 
-=============================
+# Gerätekonfiguration 
 
-Die Konfiguration der Phonemarket-Geräte ist über die
-Plugin-Menü :
+Auf die Konfiguration der Phonemarket-Geräte kann über das Plugin-Menü zugegriffen werden :
 
 ![phonemarket2](../images/phonemarket2.PNG)
 
-So sieht die Phonemarket-Plugin-Seite aus (hier mit bereits 1
-Ausrüstung) :
+So sieht die Phonemarket-Plugin-Seite aus (hier mit bereits 1 Gerät) :
 
 ![phonemarket3](../images/phonemarket3.PNG)
-
-> **Spitze**
->
-> Platzieren Sie wie an vielen Stellen in Jeedom die Maus ganz links
-> ruft ein Schnellzugriffsmenü auf (Sie können unter
-> Lassen Sie es in Ihrem Profil immer sichtbar.).
 
 Sobald Sie auf eine davon klicken, erhalten Sie :
 
@@ -50,27 +36,15 @@ Sobald Sie auf eine davon klicken, erhalten Sie :
 
 Hier finden Sie die gesamte Konfiguration Ihrer Geräte :
 
--   **Name de Ausrüstung Telefonmarkt** : Name Ihrer Ausrüstung
-    Phonemarket,
-
--   **Übergeordnetes Objekt** : gibt das übergeordnete Objekt an, zu dem es gehört
-    Ausrüstung,
-
+-   **Name de l'équipement Phonemarket** : Name Ihrer Telefonmarktausrüstung,
+-   **Übergeordnetes Objekt** : Gibt das übergeordnete Objekt an, zu dem das Gerät gehört,
 -   **Aktivieren** : macht Ihre Ausrüstung aktiv,
-
 -   **Sichtbar** : macht Ihre Ausrüstung auf dem Armaturenbrett sichtbar.
 
 Nachfolgend finden Sie die Liste der Bestellungen :
 
 -   **Name** : Der im Dashboard angezeigte Name,
-
 -   **Typ** : Art der Bestellung (Anrufe oder SMS),
-
--   **Anzahl** : anzurufende Telefonnummer oder an wen a
-    SMS muss gesendet werden (je nach Typ),
-
+-   **Anzahl** : Telefonnummer, die angerufen werden soll oder an die eine SMS gesendet werden soll (je nach Typ),
 -   **Test** : Wird zum Testen des Befehls verwendet,
-
 -   **Löschen** (Zeichen -) : ermöglicht das Löschen des Befehls.
-
-
