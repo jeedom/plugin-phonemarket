@@ -92,7 +92,7 @@ $eqLogics = eqLogic::byType('phonemarket');
 				
 			</div>
 			<div role="tabpanel" class="tab-pane" id="commandtab">
-				<div class="alert alert-info">{{Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target="_blank" href="http://market.jeedom.fr/index.php?v=d&p=profils&tab=sms">ici</a>}}</div>
+				<div class="alert alert-info">{{Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target="_blank" href="https://market.jeedom.com/index.php?v=d&p=profils#services">ici</a>}}</div>
 				<a class="btn btn-success btn-sm cmdAction pull-right" data-action="add"><i class="fa fa-plus-circle"></i> {{Ajouter une commande}}</a><br/><br/>
 				<table id="table_cmd" class="table table-bordered table-condensed">
 					<thead>
