@@ -18,7 +18,7 @@
         "Activer": "Activate",
         "Visible": "Visible",
         "Catégorie": "Category",
-        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "An SMS is worth one credit, a call is worth 2 credits. Please note that SMS messages are truncated to 140 characters and calls to 450 characters. You can see your remaining credits <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">here<\/a>",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">ici<\/a>": "An SMS is worth one credit, a call is worth 2 credits. Please note that SMS messages are truncated to 140 characters and calls to 450 characters. You can see your remaining credits <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">here<\/a>",
         "Ajouter une commande": "Add a command",
         "Nom": "Name",
         "Type": "Type",
