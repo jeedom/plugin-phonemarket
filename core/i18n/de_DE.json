@@ -18,7 +18,7 @@
         "Activer": "Aktivieren",
         "Visible": "Sichtbar",
         "Catégorie": "Kategorie",
-        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">ici<\/a>": "Eine SMS ist ein Guthaben wert, ein Anruf 2 Guthaben. Bitte beachten Sie, dass SMS-Nachrichten auf 140 Zeichen und Anrufe auf 450 Zeichen gekürzt werden. Sie können Ihre verbleibenden Credits <a target=\"_blank\" href=\"http:\/\/market.jeedom.fr\/index.php?v=d&p=profils&tab=sms\">hier sehen<\/a>",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">ici<\/a>": "Eine SMS ist ein Guthaben wert, ein Anruf 2 Guthaben. Bitte beachten Sie, dass SMS-Nachrichten auf 140 Zeichen und Anrufe auf 450 Zeichen gekürzt werden. Sie können Ihre verbleibenden Credits <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">hier sehen<\/a>",
         "Ajouter une commande": "Kommando hinzufügen",
         "Nom": "Name",
         "Type": "Typ",
