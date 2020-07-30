@@ -28,5 +28,8 @@
         "SMS": "",
         "Appels": "",
         "Tester": "Тест"
+    },
+    "info.json": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": ""
     }
 }
