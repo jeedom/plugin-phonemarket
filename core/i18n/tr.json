@@ -3,7 +3,7 @@
         "401 - Accès non autorisé": "401 - Yetkisiz erişim",
         "Gestion": "Idare",
         "Ajouter": "Ekle",
-        "Mes PhoneMarket": "",
+        "Mes PhoneMarket": "Mes PhoneMarket",
         "Rechercher": "Arayın",
         "Configuration avancée": "Gelişmiş ayarlar",
         "Dupliquer": "Kopyala",
@@ -11,25 +11,25 @@
         "Supprimer": "Sil",
         "Equipement": "Cihaz",
         "Commandes": "Komutalar",
-        "Nom de l'équipement phonemarket": "",
+        "Nom de l'équipement phonemarket": "Nom de l'équipement phonemarket",
         "Nom de l'équipement template": "Şablon cihazının ismi",
         "Objet parent": "Üst nesne",
         "Aucun": "Hiçbir",
         "Activer": "Etkinleştir",
         "Visible": "Görülebilir",
         "Catégorie": "Kategori",
-        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">ici<\/a>": "",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">ici<\/a>": "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">ici<\/a>",
         "Ajouter une commande": "Komuta ekle",
         "Nom": "İsim",
         "Type": "Çeşit",
-        "Numéro": ""
+        "Numéro": "Numéro"
     },
     "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
-        "SMS": "",
-        "Appels": "",
+        "SMS": "SMS",
+        "Appels": "Appels",
         "Tester": "Test et"
     },
     "info.json": {
-        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": ""
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels"
     }
 }

@@ -6,7 +6,12 @@
         "en_US": "Plugin to use the market as an SMS gateway and to make calls",
         "es_ES": "Complemento para usar el mercado como puerta de enlace de SMS y hacer llamadas",
         "de_DE": "Plugin, um den Markt als SMS-Gateway zu nutzen und Anrufe zu tätigen",
-        "pt_PT": "Plugin para usar o mercado como um gateway SMS e fazer chamadas"
+        "pt_PT": "Plugin para usar o mercado como um gateway SMS e fazer chamadas",
+        "ru_RU": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+        "id_ID": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+        "it_IT": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+        "ja_JP": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels",
+        "tr": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels"
     },
     "licence": "AGPL",
     "author": "Loïc",
@@ -19,7 +24,12 @@
         "en_US",
         "es_ES",
         "de_DE",
-        "pt_PT"
+        "ru_RU",
+        "id_ID",
+        "it_IT",
+        "ja_JP",
+        "pt_PT",
+        "tr"
     ],
     "compatibility": [
         "miniplus",
