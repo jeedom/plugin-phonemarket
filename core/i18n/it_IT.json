@@ -3,7 +3,7 @@
         "401 - Accès non autorisé": "401 - Accesso non autorizzato",
         "Gestion": "Gestione",
         "Ajouter": "Aggiungi",
-        "Mes PhoneMarket": "",
+        "Mes PhoneMarket": "Mes PhoneMarket",
         "Rechercher": "Ricercare",
         "Configuration avancée": "Configurazione avanzata",
         "Dupliquer": "Duplicato",
@@ -11,22 +11,25 @@
         "Supprimer": "Rimuovere",
         "Equipement": "Dispositivo",
         "Commandes": "Comandi",
-        "Nom de l'équipement phonemarket": "",
+        "Nom de l'équipement phonemarket": "Nom de l'équipement phonemarket",
         "Nom de l'équipement template": "Nome di attrezzature template",
         "Objet parent": "Oggetto padre",
         "Aucun": "Nessuno",
         "Activer": "Attivare",
         "Visible": "Visibile",
         "Catégorie": "Categoria",
-        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">ici<\/a>": "",
+        "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">ici<\/a>": "Un SMS vaut un crédit, un appel vaut 2 crédits. Attention les SMS sont tronqué à 140 caractères et les appels à 450 caractères. Vous pouvez voir vos crédits restants <a target=\"_blank\" href=\"https:\/\/market.jeedom.com\/index.php?v=d&p=profils#services\">ici<\/a>",
         "Ajouter une commande": "Aggiungi un comando",
         "Nom": "Nome",
         "Type": "Tipo",
-        "Numéro": ""
+        "Numéro": "Numéro"
     },
     "plugins\/phonemarket\/desktop\/js\/phonemarket.js": {
-        "SMS": "",
-        "Appels": "",
+        "SMS": "SMS",
+        "Appels": "Appels",
         "Tester": "Prova"
+    },
+    "info.json": {
+        "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels": "Plugin pour utiliser le market comme passerelle SMS et pour passer des appels"
     }
 }
