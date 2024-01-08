@@ -15,7 +15,7 @@
     },
     "licence": "AGPL",
     "author": "Jeedom SAS",
-    "require": "4.2",
+    "require": "4.3",
     "category": "communication",
     "changelog": "https:\/\/doc.jeedom.com\/#language#\/plugins\/communication\/phonemarket\/changelog",
     "documentation": "https:\/\/doc.jeedom.com\/#language#\/plugins\/communication\/phonemarket\/",
