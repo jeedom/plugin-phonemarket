@@ -2,6 +2,8 @@
     "changelog.md": {
         "Changelog Phone market": "Changelog Phone market",
         "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "As a reminder if there is no information on the update, it means that it only concerns the updating of documentation, translation or text",
+        "08\/01\/2024": "01\/08\/2024",
+        "Préparation pour jeedom 4.4": "Preparing for jeedom 4.4",
         "18\/11\/2023": "11\/18\/2023",
         "Mise à jour de l'interface du plugin pour Jeedom v4": "Updated plugin interface for Jeedom v4",
         "Version minimum requise Jeedom v4.2": "Minimum version required Jeedom v4.2",
