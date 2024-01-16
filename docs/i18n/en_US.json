@@ -49,6 +49,7 @@
         "permet d'afficher la commande sur le dashboard": "allows you to display the order on the dashboard",
         "permet de tester la commande": "Used to test the command",
         "permet de supprimer la commande": "allows to delete the command",
+        "Il faut absolument ajouter des commandes (bouton d'ajout en haut a droite) pour pouvoir faire des appels ou envoyer des sms": "It is absolutely necessary to add commands (add button at the top right) to be able to make calls or send text messages",
         " Important.": " Important.",
         " Important?": " Important?",
         "Important ": "Important ",
@@ -125,6 +126,13 @@
         " signe]": " sign]",
         "[signe]": "[sign]",
         "*signe*": "*sign*",
-        " signe*": " sign*"
+        " signe*": " sign*",
+        " IMPORTANT.": " Important.",
+        " IMPORTANT?": " Important?",
+        "IMPORTANT ": "Important ",
+        " IMPORTANT]": " Important]",
+        "[IMPORTANT]": "[Important]",
+        "*IMPORTANT*": "*Important*",
+        " IMPORTANT*": " Important*"
     }
 }

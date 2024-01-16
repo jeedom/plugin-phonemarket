@@ -49,6 +49,7 @@
         "permet d'afficher la commande sur le dashboard": "ermöglicht die Anzeige der Bestellung im Dashboard",
         "permet de tester la commande": "Wird zum Testen des Befehls verwendet",
         "permet de supprimer la commande": "ermöglicht das Löschen des Befehls",
+        "Il faut absolument ajouter des commandes (bouton d'ajout en haut a droite) pour pouvoir faire des appels ou envoyer des sms": "Das Hinzufügen von Befehlen (Schaltfläche „Hinzufügen“ oben rechts) ist unbedingt erforderlich, um Anrufe tätigen oder Textnachrichten senden zu können",
         " Important.": " Wichtig.",
         " Important?": " Wichtig?",
         "Important ": "Wichtig ",
@@ -125,6 +126,13 @@
         " signe]": " Schild]",
         "[signe]": "[Schild]",
         "*signe*": "*Schild*",
-        " signe*": " Schild*"
+        " signe*": " Schild*",
+        " IMPORTANT.": " Wichtig.",
+        " IMPORTANT?": " Wichtig?",
+        "IMPORTANT ": "Wichtig ",
+        " IMPORTANT]": " Wichtig]",
+        "[IMPORTANT]": "[Wichtig]",
+        "*IMPORTANT*": "*Wichtig*",
+        " IMPORTANT*": " Wichtig*"
     }
 }

@@ -53,6 +53,8 @@
         "permet de tester la commande": "permet de tester la commande",
         "Supprimer": "Supprimer",
         "signe": "signe",
-        "permet de supprimer la commande": "permet de supprimer la commande"
+        "permet de supprimer la commande": "permet de supprimer la commande",
+        "IMPORTANT": "IMPORTANT",
+        "Il faut absolument ajouter des commandes (bouton d'ajout en haut a droite) pour pouvoir faire des appels ou envoyer des sms": "Il faut absolument ajouter des commandes (bouton d'ajout en haut a droite) pour pouvoir faire des appels ou envoyer des sms"
     }
 }

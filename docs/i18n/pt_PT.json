@@ -49,6 +49,7 @@
         "permet d'afficher la commande sur le dashboard": "permite que você exiba o pedido no painel",
         "permet de tester la commande": "permite testar o comando",
         "permet de supprimer la commande": "permite excluir o comando",
+        "Il faut absolument ajouter des commandes (bouton d'ajout en haut a droite) pour pouvoir faire des appels ou envoyer des sms": "É absolutamente necessário adicionar comandos (botão adicionar no canto superior direito) para poder fazer chamadas ou enviar mensagens de texto",
         " Important.": " IMPORTANTE.",
         " Important?": " IMPORTANTE?",
         "Important ": "IMPORTANTE ",
@@ -125,6 +126,13 @@
         " signe]": " placa]",
         "[signe]": "[placa]",
         "*signe*": "*placa*",
-        " signe*": " placa*"
+        " signe*": " placa*",
+        " IMPORTANT.": " IMPORTANTE.",
+        " IMPORTANT?": " IMPORTANTE?",
+        "IMPORTANT ": "IMPORTANTE ",
+        " IMPORTANT]": " IMPORTANTE]",
+        "[IMPORTANT]": "[IMPORTANTE]",
+        "*IMPORTANT*": "*IMPORTANTE*",
+        " IMPORTANT*": " IMPORTANTE*"
     }
 }
