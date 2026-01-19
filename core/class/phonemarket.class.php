@@ -48,12 +48,14 @@ class phonemarketCmd extends cmd {
 				log::add('phonemarket', 'error', print_r($market, true));
 				throw new Exception($market->getError(), $market->getErrorCode());
 			}
+			log::add('phonemarket', 'debug',print_r($market->getResult(), true));
 		}
 		if ($this->getConfiguration('type') == 'call') {
 			if (!$market->sendRequest('phonemarket::call', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message'], 'language' => config::byKey('language', 'core', 'fr_FR')))) {
 				log::add('phonemarket', 'error', print_r($market, true));
 				throw new Exception($market->getError(), $market->getErrorCode());
 			}
+			log::add('phonemarket', 'debug',print_r($market->getResult(), true));
 		}
 	}
 
