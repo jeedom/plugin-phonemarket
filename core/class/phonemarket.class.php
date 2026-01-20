@@ -42,13 +42,16 @@ class phonemarketCmd extends cmd {
 	}
 
 	public function execute($_options = array()) {
+		log::add('phonemarket', 'debug',"Call execute command");
 		$market = repo_market::getJsonRpc();
 		if ($this->getConfiguration('type') == 'sms') {
+			log::add('phonemarket', 'debug',"Begin send sms to ".$this->getConfiguration('phonenumber'));
 			if (!$market->sendRequest('phonemarket::sms', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message']))) {
 				log::add('phonemarket', 'error', print_r($market, true));
 				throw new Exception($market->getError(), $market->getErrorCode());
 			}
 			log::add('phonemarket', 'debug',print_r($market->getResult(), true));
+			log::add('phonemarket', 'debug',"End send sms to ".$this->getConfiguration('phonenumber'));
 		}
 		if ($this->getConfiguration('type') == 'call') {
 			if (!$market->sendRequest('phonemarket::call', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message'], 'language' => config::byKey('language', 'core', 'fr_FR')))) {
