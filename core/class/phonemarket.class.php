@@ -42,23 +42,35 @@ class phonemarketCmd extends cmd {
 	}
 
 	public function execute($_options = array()) {
-		log::add('phonemarket', 'debug',"Call execute command");
-		$market = repo_market::getJsonRpc();
-		if ($this->getConfiguration('type') == 'sms') {
-			log::add('phonemarket', 'debug',"Begin send sms to ".$this->getConfiguration('phonenumber'));
-			if (!$market->sendRequest('phonemarket::sms', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message']))) {
-				log::add('phonemarket', 'error', print_r($market, true));
-				throw new Exception($market->getError(), $market->getErrorCode());
-			}
-			log::add('phonemarket', 'debug',print_r($market->getResult(), true));
-			log::add('phonemarket', 'debug',"End send sms to ".$this->getConfiguration('phonenumber'));
+		log::add('phonemarket', 'debug', 'Call execute command');
+		$type = $this->getConfiguration('type');
+		if ($type !== 'sms' && $type !== 'call') {
+			return;
 		}
-		if ($this->getConfiguration('type') == 'call') {
-			if (!$market->sendRequest('phonemarket::call', array('number' => $this->getConfiguration('phonenumber'), 'message' => $_options['title'] . ' ' . $_options['message'], 'language' => config::byKey('language', 'core', 'fr_FR')))) {
-				log::add('phonemarket', 'error', print_r($market, true));
+
+		$data = array(
+			'number' => $this->getConfiguration('phonenumber'),
+			'message' => ($_options['title'] ?? '') . ' ' . ($_options['message'] ?? ''),
+		);
+		if ($type === 'call') {
+			$data['language'] = config::byKey('language', 'core', 'fr_FR');
+		} else {
+			log::add('phonemarket', 'debug', 'Begin send sms to ' . $data['number']);
+		}
+
+		if (class_exists('repo_market') && class_exists('marketClient', false)) {
+			$path = $type === 'sms' ? '/phone/messages' : '/phone/calls';
+			marketClient::request('POST', $path, $data);
+		} else {
+			$market = repo_market::getJsonRpc();
+			if (!$market->sendRequest('phonemarket::' . $type, $data)) {
 				throw new Exception($market->getError(), $market->getErrorCode());
 			}
-			log::add('phonemarket', 'debug',print_r($market->getResult(), true));
+			log::add('phonemarket', 'debug', print_r($market->getResult(), true));
+		}
+
+		if ($type === 'sms') {
+			log::add('phonemarket', 'debug', 'End send sms to ' . $data['number']);
 		}
 	}
 
